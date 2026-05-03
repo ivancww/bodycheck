@@ -2,9 +2,9 @@ theme: jekyll-theme-cayman
 title: "🏥 Ivan客戶專屬身體檢查優惠"
 description: "凝薈醫學體檢中心 (A SYNERGIA MEDICAL HEALTH CENTRE)"
 head_canvas: |
-  <link rel="apple-touch-icon" href="/app-logo.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/app-logo.png">
-  <link rel="shortcut icon" href="/app-logo.png">
+  <link rel="apple-touch-icon" href="app-logo.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="app-logo.png">
+  <link rel="shortcut icon" href="app-logo.png">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="Ivan體檢">
