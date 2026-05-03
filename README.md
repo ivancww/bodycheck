@@ -1,8 +1,3 @@
----
-title: "🏥 Ivan客戶專屬身體檢查優惠"
-description: "凝薈醫學體檢中心 (A SYNERGIA MEDICAL HEALTH CENTRE)"
----
-
 <style>
   header .btn { display: none !important; visibility: hidden !important; height: 0 !important; padding: 0 !important; margin: 0 !important; }
   section.main-content { padding-top: 20px !important; }
