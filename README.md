@@ -31,9 +31,9 @@
 
 | 計劃名稱 | 原價 | **專屬優惠價** |
 | :--- | :---: | :---: |
-| <a href="plan-DSD.pdf?v=1.2" target="_blank"><b>DSD 身體檢查計劃</b></a> | HK$1,880 | **HK$500** |
-| <a href="plan-CEC.pdf?v=1.2" target="_blank"><b>CEC 身體檢查計劃</b></a> | HK$2,880 | **HK$700** |
-| <a href="plan-UCC.pdf?v=1.2" target="_blank"><b>UCC 身體檢查計劃</b></a> | HK$3,200 | **HK$800** |
+| <a href="javascript:void(0);" onclick="window.open('plan-DSD.pdf?v=2.0', '_blank');"><b>DSD 身體檢查計劃</b></a> | HK$1,880 | **HK$500** |
+| <a href="javascript:void(0);" onclick="window.open('plan-CEC.pdf?v=2.0', '_blank');"><b>CEC 身體檢查計劃</b></a> | HK$2,880 | **HK$700** |
+| <a href="javascript:void(0);" onclick="window.open('plan-UCC.pdf?v=2.0', '_blank');"><b>UCC 身體檢查計劃</b></a> | HK$3,200 | **HK$800** |
 
 ### 📊 基礎計劃核心項目對比
 
@@ -74,10 +74,10 @@
 
 | 計劃名稱 | 版本 | 原價 | **專屬優惠價** |
 | :--- | :---: | :---: | :---: |
-| ♂️ <a href="粉藍正常.jpg?v=1.2" target="_blank"><b>專屬男士全面身體檢查 (粉藍)</b></a> | 正常版 | HK$6,980 | **HK$2,680** |
-| ♂️ <a href="粉藍2.0.jpg?v=1.2" target="_blank"><b>專屬男士全面身體檢查 2.0</b></a> | 2.0 版 | HK$8,780 | **HK$3,680** |
-| ♀️ <a href="粉紅正常.jpg?v=1.2" target="_blank"><b>專屬女士全面身體檢查 (粉紅)</b></a> | 正常版 | HK$6,980 | **HK$2,680** |
-| ♀️ <a href="粉紅2.0.jpg?v=1.2" target="_blank"><b>專屬女士全面身體檢查 2.0</b></a> | 2.0 版 | HK$8,780 | **HK$3,680** |
+| ♂️ <a href="javascript:void(0);" onclick="window.open('粉藍正常.jpg?v=2.0', '_blank');"><b>專屬男士全面身體檢查 (粉藍)</b></a> | 正常版 | HK$6,980 | **HK$2,680** |
+| ♂️ <a href="javascript:void(0);" onclick="window.open('粉藍2.0.jpg?v=2.0', '_blank');"><b>專屬男士全面身體檢查 2.0</b></a> | 2.0 版 | HK$8,780 | **HK$3,680** |
+| ♀️ <a href="javascript:void(0);" onclick="window.open('粉紅正常.jpg?v=2.0', '_blank');"><b>專屬女士全面身體檢查 (粉紅)</b></a> | 正常版 | HK$6,980 | **HK$2,680** |
+| ♀️ <a href="javascript:void(0);" onclick="window.open('粉紅2.0.jpg?v=2.0', '_blank');"><b>專屬女士全面身體檢查 2.0</b></a> | 2.0 版 | HK$8,780 | **HK$3,680** |
 
 ### 🔍 進階版各版本重點項目
 
